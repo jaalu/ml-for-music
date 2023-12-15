@@ -1,0 +1,3 @@
+[submodule "demos/pedalnet"]
+	path = demos/pedalnet
+	url = https://github.com/teddykoker/pedalnet
